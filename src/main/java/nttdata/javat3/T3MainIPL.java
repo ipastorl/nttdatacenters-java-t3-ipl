@@ -11,7 +11,7 @@ public class T3MainIPL {
     private static final ManagmentServiceI MANAGEMENT_SERVICE = new ManagementServiceImpl();
 
     /**
-     * The entry point of application.
+     * Método principal
      *
      * @param args the input arguments
      */
